@@ -21,6 +21,6 @@ Project is created with:
 * Swing
 
 ## Ilustrations
-![](/ilustration.png)
+![](ilustration.png)
 
 	
